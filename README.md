@@ -1,4 +1,4 @@
-# Simple C Plus Plus Demonstrations & Projects
+## Simple C Plus Plus Demonstrations & Projects
 
 Here i present some simple programs built on some of the most robust sides of the cpp language.
 
